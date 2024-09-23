@@ -1,0 +1,14 @@
+C:\Users\Diego\Desktop\Tec Softw\Proyecto Diego\Proyecto Diego\bin\Debug\net8.0\Proyecto Diego.exe
+C:\Users\Diego\Desktop\Tec Softw\Proyecto Diego\Proyecto Diego\bin\Debug\net8.0\Proyecto Diego.deps.json
+C:\Users\Diego\Desktop\Tec Softw\Proyecto Diego\Proyecto Diego\bin\Debug\net8.0\Proyecto Diego.runtimeconfig.json
+C:\Users\Diego\Desktop\Tec Softw\Proyecto Diego\Proyecto Diego\bin\Debug\net8.0\Proyecto Diego.dll
+C:\Users\Diego\Desktop\Tec Softw\Proyecto Diego\Proyecto Diego\bin\Debug\net8.0\Proyecto Diego.pdb
+C:\Users\Diego\Desktop\Tec Softw\Proyecto Diego\Proyecto Diego\obj\Debug\net8.0\Proyecto Diego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Tec Softw\Proyecto Diego\Proyecto Diego\obj\Debug\net8.0\Proyecto Diego.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Tec Softw\Proyecto Diego\Proyecto Diego\obj\Debug\net8.0\Proyecto Diego.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Tec Softw\Proyecto Diego\Proyecto Diego\obj\Debug\net8.0\Proyecto Diego.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Tec Softw\Proyecto Diego\Proyecto Diego\obj\Debug\net8.0\Proyecto Diego.dll
+C:\Users\Diego\Desktop\Tec Softw\Proyecto Diego\Proyecto Diego\obj\Debug\net8.0\refint\Proyecto Diego.dll
+C:\Users\Diego\Desktop\Tec Softw\Proyecto Diego\Proyecto Diego\obj\Debug\net8.0\Proyecto Diego.pdb
+C:\Users\Diego\Desktop\Tec Softw\Proyecto Diego\Proyecto Diego\obj\Debug\net8.0\Proyecto Diego.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Tec Softw\Proyecto Diego\Proyecto Diego\obj\Debug\net8.0\ref\Proyecto Diego.dll
