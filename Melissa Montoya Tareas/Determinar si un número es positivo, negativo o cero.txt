@@ -1,0 +1,23 @@
+Determinar si un número es positivo, negativo o cero
+
+{
+    int numero;
+
+    Console.WriteLine("Ingrese un numero");
+    numero = int.Parse(Console.ReadLine());
+
+    if (numero > 0)
+    {
+        Console.WriteLine("El numero es POSITIVO");
+    }
+    else if (numero < 0)
+    {
+        Console.WriteLine("El numero es NEGATIVO");
+    }
+    else
+    {
+
+        Console.WriteLine("El numero es CERO");
+    }
+    Console.ReadKey();
+}

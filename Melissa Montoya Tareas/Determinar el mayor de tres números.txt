@@ -1,0 +1,24 @@
+Determinar el mayor de tres números
+
+int n1, n2, n3;
+Console.WriteLine("inserter el primer numero");
+n1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("inserter el segundo numero");
+n2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("inserter el tercer numero");
+n3 = Convert.ToInt32(Console.ReadLine());
+if (n1 > n2 && n1 > n3)
+    Console.WriteLine("El numero mayor es el primer numero = " + n1);
+else
+{
+    if (n2 > n1 && n2 > n3)
+        Console.WriteLine("El numero mayor es el segundo numero = " + n2);
+
+
+    else
+    {
+        if (n3 > n2 && n3 > n1)
+            Console.WriteLine("El numero mayor es el tercer numero = " + n3);
+    }
+    Console.ReadLine();
+}

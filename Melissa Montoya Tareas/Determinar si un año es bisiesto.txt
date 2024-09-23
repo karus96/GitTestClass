@@ -1,0 +1,16 @@
+ Determinar si un año es bisiesto
+
+int año;
+
+Console.WriteLine("Ingresa un año, y te indicare su es bisiesto o no");
+año = Convert.ToInt32(Console.ReadLine());
+
+if ((año % 4 == 0 && año % 100 != 0 || (año % 400 == 0)))
+{
+    Console.WriteLine("El año" + año + " SI es bisiesto");
+}
+else
+{
+    Console.WriteLine("El año" + año + " NO es bisiesto");
+}
+Console.ReadKey();

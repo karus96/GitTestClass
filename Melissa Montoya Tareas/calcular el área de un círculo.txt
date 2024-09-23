@@ -1,0 +1,13 @@
+calcular el área de un círculo
+
+string _mensaje = "Calculo de Area de un circulo";
+
+double radio;
+double area;
+
+Console.Write("ingresa radio");
+
+radio = double.Parse(Console.ReadLine());
+
+area = radio * radio * Math.PI;
+Console.WriteLine("\nEl area del circulo es: " + area);

@@ -1,0 +1,20 @@
+sumar dos números
+
+using System;
+
+Console.WriteLine("escribe tu nombre: ");
+string nombre = Convert.ToString(Console.ReadLine());
+
+Console.WriteLine("escribe tu primer numero: ");
+double num1 = Convert.ToDouble(Console.ReadLine());
+
+Console.WriteLine("escribe tu segundo numero");
+double num2 = Convert.ToDouble(Console.ReadLine());
+
+double resultado;
+
+resultado = num1 + num2;
+
+Console.WriteLine("tu resultado" + nombre + " es " + resultado);
+
+Console.WriteLine();

@@ -1,0 +1,18 @@
+Semaforo
+
+
+
+int semaforo = 0;
+switch (semaforo)
+{
+    case 0:
+        Console.WriteLine("puedo moverme");
+        break;
+    case 1:
+        Console.WriteLine("debo comenzar a detenerme");
+        break;
+    case 2:
+        Console.WriteLine("debo detenerme");
+        break;
+}
+
